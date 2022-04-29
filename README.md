@@ -10,7 +10,7 @@ Eskandarzadeh, S., & Fahimnia, B. (2022). Rest break policy comparison for heavy
 The codes are written in Python 3. To run the code just need to pull the repo into a local machine. The code to run requires the following python libraries:
 argparse, time, datetime, traceback, gurobipy, pandas. 
 
-The code can also be run from the command line. The command-line parameters are in the main.py.
+The code can also be run from the command line. The command-line parameters are defined in the main.py.
 
 # Code Structure
 There are four py files: main.py, model_params.py, data_prep_functions.py, and models.py
